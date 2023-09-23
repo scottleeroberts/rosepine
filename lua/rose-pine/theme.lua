@@ -105,7 +105,7 @@ function M._load(options)
 		['Exception'] = { fg = p.pine },
 		['Float'] = { fg = p.gold },
 		['Function'] = { fg = p.rose },
-		['Identifier'] = { fg = p.rose },
+		['Identifier'] = { fg = p.iris },
 		-- Ignore = {},
 		['Include'] = { fg = p.pine },
 		['Keyword'] = { fg = p.pine },
